@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Lost & Found",
+        "description": "App für Studierende und Mitarbeitende der BFH, um verlorene Gegenstände wiederzufinden. Fundstücke werden mit Zeitpunkt und Ort erfasst, Verlustmeldungen können aufgegeben werden, und ein Chat verbindet Finder und Verlierer. Über mehrere Module hinweg entwickelt.",
+        "category": "study"
+    },
+    {
+        "title": "TravelSync",
+        "description": "Web-App zur Reiseplanung. Freunde hinzufügen, gemeinsam Reisen planen und Ausgaben verwalten: erfassen, aufteilen, zurückzahlen.",
+        "tech": ["React", "Kotlin"],
+        "category": "private"
+    },
+    {
+        "title": "the_fence",
+        "description": "Mein erstes Spiel. Text- und GUI-basiert: Man übernimmt ein zwielichtiges Pfandhaus und muss mit Kundschaft feilschen, eingebettet in eine kleine Story.",
+        "tech": ["Godot"],
+        "category": "private"
+    },
+    {
+        "title": "Hot Wire",
+        "description": "Mein zweites Spiel, in 3D mit freier Bewegung. Autos stehlen, zerlegen und die Teile verkaufen, mit grösserer Story im Hintergrund.",
+        "tech": ["Godot"],
+        "category": "private"
+    }
+]
